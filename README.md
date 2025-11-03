@@ -1,5 +1,3 @@
-# 🎨 Task Manager — Frontend
-
 ### Frontend for the Task Manager App
 
 A simple frontend application developed with **React** that interacts with the Task Manager REST API to manage **tasks** and **categories**.
