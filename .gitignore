@@ -25,3 +25,4 @@ dist-ssr
 *.iml
 *storybook.log
 storybook-static
+.storybook
