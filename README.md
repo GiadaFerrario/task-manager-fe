@@ -18,3 +18,11 @@ It allows users to:
 - **Backend Integration:** Spring Boot REST API
 
 ---
+
+### 🧱 UI Documentation
+
+The project integrates **Storybook** to document and visualize UI components in isolation.  
+Run it locally with:
+
+```bash
+npm run storybook
