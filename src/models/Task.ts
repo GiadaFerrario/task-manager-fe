@@ -9,4 +9,5 @@ export interface Task {
     status: Status;
     categoryId?: number | null;
     categoryName?: string | null;
+    categoryColor?: string | null;
 }
