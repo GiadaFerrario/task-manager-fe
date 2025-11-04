@@ -16,7 +16,11 @@ export default function TaskCard(props: {task: Task}) {
                 },
             }}>
             <CardContent>
-                <Typography variant="h5" component="div">
+                <Typography
+                    variant="h6"
+                    fontWeight={600}
+                    color="text.primary"
+                >
                     {props.task.title}
                 </Typography>
                 <Typography variant="body2" sx={{marginBottom: "10px"}}>
